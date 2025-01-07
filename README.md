@@ -12,7 +12,7 @@ Projekt predstavuje jednoduchy signalny system zalozeny na Arduino:
 
 ## Pouzite moduly
 - Fotorezistor
-- Rezistor 10 kOhm
+- Rezistor 220 Ohm, 1kOhm, 10 kOhm
 - LCD displej (16x2)
 - Bar Graph
 - Tlacidlo (Push Button)
